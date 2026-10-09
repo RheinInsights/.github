@@ -23,9 +23,12 @@ Typical architectures include:
 - Enterprise data sources → RheinInsights → Azure AI Search → AI
 - Enterprise data sources → RheinInsights → Elasicsearch → AI
 - Enterprise data sources → RheinInsights → OpenSearch → AI
+- Enterprise data sources → RheinInsights → Postgres → AI 
 - Enterprise data sources → RheinInsights → Qdrant → AI
+- Enterprise data sources → RheinInsights → Squirro → AI
 - Enterprise data sources → RheinInsights → Weaviate → AI
 - Enterprise data sources → RheinInsights → Open WebUI
+- Enterprise data sources → RheinInsights → MS Copilot
 
 ## Open Source & Integration Projects
 
